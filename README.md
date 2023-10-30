@@ -42,7 +42,6 @@ class football_playersAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot 2023-10-18 113845.png>)
-
+![image](https://github.com/HEMAKESHG/ORM/assets/144870552/04eae038-0696-4880-8f5d-d95238fdcd58)
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
